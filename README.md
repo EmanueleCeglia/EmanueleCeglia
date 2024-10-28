@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmanueleCeglia
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, Data Science, Coding and Finance
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently working at the European Central Bank as Data Scientist
 - 📫 How to reach me emanueleceglia0@gmail.com
 - For my personal and univeristy projects see the repository
 <!---
